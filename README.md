@@ -14,16 +14,21 @@ Thanks to Angela from https://appbrewery.com/ for providing the api through the 
 
 ## Tech used
 Javascript
+
 NodeJS  v24.13.0 https://nodejs.org/
+
 Nodemon v3.1.11  https://www.npmjs.com/package/nodemon  (optional)
+
 Express v5.2.1   https://www.npmjs.com/package/express
+
 EJS     v3.1.10  https://www.npmjs.com/package/ejs
+
 Axios   v1.13.2  https://www.npmjs.com/package/axios
 
 ## Installation
 Make sure you're in the root directory then run 
 
-|npm i| or |npm install| ot install the express, ejs and axios dependencies.
+|npm i| or |npm install| or install the express, ejs and axios dependencies.
 
 |node index.js| or |nodemon index.js| to start the server.
 
