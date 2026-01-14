@@ -1,0 +1,2 @@
+# HumStory
+"Ye shall know the truth, and the truth shall make you free" John 8:32 
