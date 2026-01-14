@@ -8,6 +8,7 @@ Thanks to Angela from https://appbrewery.com/ for providing the api through the 
 "https://secrets-api.appbrewery.com/"
 
 ## Features
+- No Authentication required.
 - We get a random story by hitting this URL with the /random endpoint with a GET method.
 - We receive some random data back and we only render the secret and the username on the Homepage. 
 - Hope it made someone smile. 😊
