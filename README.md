@@ -29,9 +29,9 @@ Axios   v1.13.2  https://www.npmjs.com/package/axios
 ## Installation
 Make sure you're in the root directory then run 
 
-|npm i| or |npm install| to install the express, ejs and axios dependencies.
+|  npm i  | or |  npm install  | to install the express, ejs and axios dependencies.
 
-|node index.js| or |nodemon index.js| to start the server.
+|  node index.js  | or |  nodemon index.js  | to start the server.
 
 
 ## Usage Example
