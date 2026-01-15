@@ -35,5 +35,6 @@ Make sure you're in the root directory then run
 
 
 ## Usage
-Example Coming at the end.
+
+![Homepage](screenshots_for_README/example.png)
 

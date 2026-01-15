@@ -10,11 +10,12 @@
     <body>
         <div class="main-container">
             <div class="confession-image">
-                <img src="images/confession.png" alt="">
+                <img src="images/confession.png" alt="Guy confessing meme">
             </div>
             <div class="confession-speech">
                 <% if (locals.secret && locals.username) { %>
-                    <p><%=secret%> My name is also <%=username%></p>
+                    <p><%=secret%></p>
+                    <p>My name is also <%=username%>.</p>
                 <% } else { %>
                     <p>Hummmm</p>
                 <% }; %>
